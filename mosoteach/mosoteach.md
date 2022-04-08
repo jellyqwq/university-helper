@@ -3,4 +3,4 @@
 
 ## build
 在build目录内使用命令即可打包
-> Pyinstaller -D setup.py
+> Pyinstaller -D -i ico.ico setup.py
