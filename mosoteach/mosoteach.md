@@ -3,4 +3,4 @@
 
 ## build
 在build目录内使用命令即可打包
-> Pyinstaller -D -i ico.ico setup.py
+> Pyinstaller -i ico.ico -D mosodo.py
